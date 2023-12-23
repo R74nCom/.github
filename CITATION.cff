@@ -8,10 +8,37 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: R74n
-    email: contact@r74n.com
-    affiliation: R74n
+  - name: R74n
+    email: contact@R74n.com
+    date-start: '2017-05-02'
+    website: 'https://R74n.com/'
+identifiers:
+  - type: doi
+    value: 10.17605/OSF.IO/PCEZ5
+    description: R74n
+  - type: url
+    value: 'https://r74n.com/'
+    description: Main Website
+  - type: other
+    value: /g/11m0q5kt97
+    description: KGMID
+  - type: other
+    value: 'ark:49595'
+    description: ARK
+  - type: other
+    value: 1.3.6.1.4.1.61117
+    description: OID
+  - type: url
+    value: 'https://purl.org/r74n'
+    description: PURL
+  - type: other
+    value: W3ID
+    description: 'https://w3id.org/r74n'
+  - type: other
+    value: D276000186F1176F
+    description: AID
 repository-code: 'https://github.com/R74nCom'
 url: 'https://r74n.com'
+abstract: Website collective
 keywords:
   - R74n
