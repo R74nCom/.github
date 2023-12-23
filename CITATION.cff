@@ -37,6 +37,8 @@ identifiers:
   - type: other
     value: D276000186F1176F
     description: AID
+  - type: swh
+    value: 'swh:1:rev:aa3735678f78a4bdac56fd65b34fccdcad01acc4'
 repository-code: 'https://github.com/R74nCom'
 url: 'https://r74n.com'
 abstract: Website collective
