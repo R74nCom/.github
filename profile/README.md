@@ -1,9 +1,11 @@
 ![Cyan R74n logo on a black background](https://raw.githubusercontent.com/R74nCom/.github/main/wallpaper.png)
 
-The official GitHub of [R74n](https://r74n.com/).
+The official GitHub of [R74n](https://R74n.com/).
 
 ## Get in touch!
-Join our [Discord server](https://discord.com/invite/ejUc6YPQuS).
+Join our [Discord server](https://discord.com/invite/ejUc6YPQuS) to discuss our projects and hang out.
+
+Use one of our [feedback forms](https://R74n.com/ufbs/) to send suggestions and issue reports!
 
 <!--## Hi there 👋-->
 
