@@ -1,6 +1,8 @@
-![Cyan R74n logo on a black background](https://raw.githubusercontent.com/R74nCom/.github/main/wallpaper.png)
+![Cyan R74n logo on a black background](https://raw.githubusercontent.com/R74nCom/.github/main/cover-3840x1240px.png)
 
-The official GitHub of [R74n](https://R74n.com/).
+The official GitHub of [R74n](https://R74n.com/), the web collective & developer of Sandboxels, Infinite Chef, the Copy Paste Dump, and more.
+
+Check out our hub at [R74nCom.GitHub.io](https://r74ncom.github.io/) for all our involvement on this platform.
 
 ## Get in touch!
 Join our [Discord server](https://discord.com/invite/ejUc6YPQuS) to discuss our projects and hang out.
